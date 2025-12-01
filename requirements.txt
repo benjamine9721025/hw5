@@ -1,0 +1,4 @@
+streamlit>=1.36.0
+torch       # 如果你想用 CPU-only，也可以換成 torch==2.3.0+cpu 並指定對應的輪子
+transformers>=4.40.0
+pandas
